@@ -23,4 +23,16 @@ primero verificamos donde se esta ejecutando python con el comando  which python
 
 primero verificamos donde se esta ejecutando pip con el comando  which pip
 
-apt install -y python - venv  -- comando para la creacion  de paquetes virtuales
+sudo apt install -y python-venv  -- comando para la creacion  de paquetes virtuales
+
+entro a la carpeta donde voy a instalar el ambiente creo el ambiente con el comando 
+python3 -m venv env
+
+para activar el ambiente
+source env/bin/activate
+
+dessactivar el ambiente
+deactivate
+
+ya podemos instalar las librerias que necesitemos
+
