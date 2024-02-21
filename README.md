@@ -36,3 +36,7 @@ deactivate
 
 ya podemos instalar las librerias que necesitemos
 
+ pip3 freeze > requirements.txt  crea un archivo para mirar las librerias que se van a instalar
+
+ pip3 install -r requirements.txt
+
