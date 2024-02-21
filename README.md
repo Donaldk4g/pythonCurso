@@ -40,3 +40,6 @@ ya podemos instalar las librerias que necesitemos
 
  pip3 install -r requirements.txt
 
+-------------------------------------------
+la libreia de pandas sirve para trabajar con csv en el codigo esta el ejemplo facilita mucho el trabajo
+

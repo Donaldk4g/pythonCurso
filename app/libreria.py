@@ -1,6 +1,7 @@
 
 import csv
 
+
 def DataLoad(ruta):    
     with open(ruta, 'r') as csvfile:
 
